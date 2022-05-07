@@ -1,0 +1,1 @@
+<small>You will be redirected to the PayPal checkout page.</small><?php /**PATH C:\xampp\htdocs\LaravelPayment\resources\views/components/paypal-collapse.blade.php ENDPATH**/ ?>
